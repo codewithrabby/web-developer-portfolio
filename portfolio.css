@@ -131,12 +131,17 @@ main{
 }
 /* resume section */
 
+.resume{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.resume-title{
+    text-align: center;
+    font-size: 20px;
+}
 .resume-container{
     display: flex;
     gap: 24px;
-}
-.experience-title{
-
 }
 .experience-sub-title{
     color: #757575;
